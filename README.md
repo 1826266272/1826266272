@@ -1,22 +1,17 @@
-# Hi there 👋 I'm Sethu
+# Hi, I'm Sethu 👋
 
-## 🚀 About Me
-- 🎓 Engineering student
-- 💻 Learning Full Stack Development
-- 🧠 Interested in sci-fi, psychological movies, and coding
-- 🏋️ Gym enthusiast
+Engineering student interested in building web apps and learning full-stack development.
 
-## 🛠 Skills
+## Skills
 - Java
 - HTML, CSS, JavaScript
 - React
 - SQL
-- Manual Testing
 
-## 📌 Projects
-- Movie CRUD App (.NET MVC)
+## Projects
+- Movie Website (React)
 - QR Code Generator
-- Asset Extractor App
+- Chrome Movie Info Extension
 
-## 📫 Contact
-- GitHub: https://github.com/yourusername
+## Contact
+📧 sethusince2004@gmail.com
